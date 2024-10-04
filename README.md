@@ -14,7 +14,7 @@ A simple Go package to clean, normalize, and validate Persian (Iranian) phone nu
 To install the package, use:
 
 ```bash
-go get github.com/yourusername/persianPhoneValidator
+go get github.com/GoInCode/persianPhoneValidator
 ```
 
 ## Usage
